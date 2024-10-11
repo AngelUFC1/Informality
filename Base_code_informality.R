@@ -20,7 +20,7 @@ library(lubridate)
 ########################NIGHTLIGHT DATA FOR PERU################################
 devtools::install_github("worldbank/blackmarbler")
 
-bearer <- "eyJ0eXAiOiJKV1QiLCJvcmlnaW4iOiJFYXJ0aGRhdGEgTG9naW4iLCJzaWciOiJlZGxqd3RwdWJrZXlfb3BzIiwiYWxnIjoiUlMyNTYifQ.eyJ0eXBlIjoiVXNlciIsInVpZCI6ImFuZ2VsdWZjIiwiZXhwIjoxNzI3OTMxNTAwLCJpYXQiOjE3MjI3NDc1MDAsImlzcyI6IkVhcnRoZGF0YSBMb2dpbiJ9.sqQfIx7QHMXF90JvS4p0skiE5hVxoa2r7BKpvRxiKGe_T-7HzvisyUnqql_Yo5uGtmH1wWv5BhbD4_IoOYoQBsnSZxsok3Ss5izkZvxkHPDjSJt1xbcXeDi4OGKaupnV792tuubrrwlpdVRj9ZVde0ReDmnlnyBg-Pysj3vVC1_3E0ySAMPJjSuWNXgV0kGpcvFOtU4kxE-bNdx2KsgwkyRtULVnUSsNIiSiSGL1qHfR41DkwJAsNK6W4vxlk3ad_U4BRFcBRmQYeExeFRtQ7JsPRe1e0AqGuJ-nRRCyWeZotQ9Bgk8s8At3qy350E9wCPXrJciUAEUS5OHzOGZqiw"
+bearer <- "CODE_HERE"
 
 #Obtaining region of interest (ROI) as a simple feature (sf) object for Peru
 #at the second administrative level
